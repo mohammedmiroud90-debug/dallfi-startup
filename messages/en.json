@@ -1,0 +1,243 @@
+{
+  "Meta": {
+    "title": "DALLFI — Build. Work. Connect. Grow.",
+    "description": "Dallfi is a digital ecosystem where people and businesses build products, discover opportunities, find talent, access professional services, and turn ideas into reality."
+  },
+  "LocaleSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "fr": "French",
+    "es": "Spanish",
+    "ar": "Arabic"
+  },
+  "Notice": {
+    "label": "Announcement",
+    "message": "DALLFI Download Manager (DDM) is a new desktop software project currently in development, focused on creating a simple, reliable, and modern solution for managing file downloads.",
+    "learnMore": "Learn more"
+  },
+  "Nav": {
+    "pages": "Pages",
+    "login": "Log In",
+    "search": "Search",
+    "searchPlaceholder": "Search DALLFI…",
+    "searchClose": "Close search",
+    "bookDemo": "Book a Demo",
+    "ecosystemMonitor": "Ecosystem Monitor",
+    "notice": "New on DALLFI: explore Build, Work, Connect, and Grow in one ecosystem.",
+    "noticeLink": "Learn more",
+    "sectionTitle": "Current opportunities",
+    "filter": "Filter",
+    "sort": "Sort",
+    "build": "Build",
+    "builds": "Builds",
+    "releases": "Releases",
+    "work": "Work",
+    "connect": "Connect",
+    "grow": "Grow",
+    "talent": "Talent",
+    "services": "Services",
+    "opportunities": "Opportunities",
+    "products": "Products",
+    "about": "About",
+    "membership": "Membership",
+    "partners": "Partners",
+    "events": "Events",
+    "news": "News",
+    "research": "Research",
+    "careers": "Careers",
+    "contact": "Contact",
+    "privacy": "Privacy"
+  },
+  "Hero": {
+    "eyebrow": "DALLFI ecosystem — everything people and businesses need to grow.",
+    "title": "Dellfi Softwares",
+    "tagline": "A platform empowering everyone to build, work, connect, and grow.",
+    "searchNote": "DALLFI is being created to explore a dedicated experience where downloading files can be managed from one centralized application.",
+    "readMore": "Read more",
+    "descriptionLine1": "Products, opportunities, talent, and services — all in one ecosystem.",
+    "descriptionLine2": "Get started easily and turn ideas into reality.",
+    "priceFrom": "From",
+    "price": "free to join*",
+    "offer": "Offer",
+    "cta": "Get Started",
+    "version": "Version 1.0",
+    "imageAlt": "Professional working on a laptop",
+    "feature1Lead": "Build products & projects",
+    "feature1Rest": "for the optimal start",
+    "feature2Lead": "Find talent & opportunities",
+    "feature2Rest": "across the ecosystem",
+    "feature3Lead": "Access pro services",
+    "feature3Rest": "— grow securely and easily",
+    "card": {
+      "build": "Build",
+      "work": "Work",
+      "connect": "Connect",
+      "grow": "Grow",
+      "products": "Products",
+      "opportunities": "Opportunities",
+      "talent": "Talent",
+      "services": "Services",
+      "events": "Events",
+      "news": "News",
+      "partners": "Partners",
+      "research": "Research",
+      "membership": "Membership",
+      "careers": "Careers",
+      "about": "About",
+      "contact": "Contact"
+    }
+  },
+  "Blog": {
+    "title": "Blog",
+    "intro": "Updates from Dallfi Softwares — builds, releases, and product notes.",
+    "buildsTitle": "Builds",
+    "buildsIntro": "Work in progress, experiments, and product stories from the Dallfi team.",
+    "releasesTitle": "Releases",
+    "releasesIntro": "Release notes and version updates for Dallfi Softwares.",
+    "all": "All posts",
+    "readMore": "Read more",
+    "back": "Back to posts",
+    "post": "Post",
+    "empty": "No posts yet.",
+    "toc": "Table of contents",
+    "comments": "Comments",
+    "commentsEmpty": "No comments yet. Be the first to reply.",
+    "commentName": "Name",
+    "commentEmail": "Email",
+    "commentBody": "Comment",
+    "commentSubmit": "Post comment",
+    "commentSending": "Sending…",
+    "commentSaved": "Comment published.",
+    "commentInvalid": "Enter a name, email, and short comment.",
+    "commentError": "Unable to publish this comment."
+  },
+  "Ecosystem": {
+    "sectionTitle": "Your path in the ecosystem",
+    "build": {
+      "title": "Build",
+      "description": "Create products, ship projects, and turn ideas into working ventures."
+    },
+    "work": {
+      "title": "Work",
+      "description": "Find meaningful opportunities and grow your professional journey."
+    },
+    "connect": {
+      "title": "Connect",
+      "description": "Meet talent, partners, and communities that move you forward."
+    },
+    "grow": {
+      "title": "Grow",
+      "description": "Access services and resources that scale people and businesses."
+    }
+  },
+  "Cookies": {
+    "title": "We use cookies",
+    "p1": "We use cookies and similar technologies to provide our services, improve your experience, and analyze traffic.",
+    "p2": "You can learn more in our <cookie>Cookie Policy</cookie>, <privacy>Privacy Policy</privacy>, and <imprint>Imprint</imprint>.",
+    "p3": "Choose “Accept” to allow all cookies, or “Only necessary” to continue with required cookies only.",
+    "settings": "Settings",
+    "necessary": "Only necessary",
+    "accept": "Accept"
+  },
+  "Footer": {
+    "dallfiTitle": "DALLFI",
+    "companyTitle": "Company",
+    "communitiesTitle": "Open communities",
+    "home": "Home",
+    "builds": "Builds",
+    "releases": "Releases",
+    "howItWorks": "How This Works",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "support": "Support: +44 20 8142 8846",
+    "sloganLeft": "Build. Work. Connect. Grow.",
+    "sloganRight": "Committed to customer satisfaction",
+    "ecosystem": "Ecosystem",
+    "poweredBy": "Powered by",
+    "about": "About",
+    "contact": "Contact",
+    "feedback": "Feedback",
+    "build": "Build",
+    "work": "Work",
+    "connect": "Connect",
+    "grow": "Grow",
+    "talent": "Talent",
+    "services": "Services",
+    "press": "Press",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "products": "Products",
+    "opportunities": "Opportunities",
+    "events": "Events",
+    "news": "News",
+    "research": "Research",
+    "partners": "Partners",
+    "api": "API",
+    "data": "Data",
+    "blog": "Blog",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "copyright": "Site design / logo © 2026 DALLFI. Build. Work. Connect. Grow."
+  },
+  "Pages": {
+    "about": {
+      "title": "About DALLFI",
+      "intro": "DALLFI is a digital ecosystem where people and businesses build, work, connect, and grow together.",
+      "body1": "We bring products, opportunities, talent, and professional services into one place so ideas can move from concept to reality faster.",
+      "body2": "Our mission is to help founders, professionals, and organizations collaborate with clarity and create lasting impact.",
+      "learnMore": "Learn More",
+      "cardTitle": "Explore DALLFI"
+    },
+    "membership": {
+      "title": "Membership",
+      "intro": "Join the DALLFI membership and unlock tools, community access, and growth opportunities.",
+      "body1": "Members get early access to ecosystem features, curated opportunities, and partner offers designed for builders and teams.",
+      "body2": "Choose a plan that matches your stage — from individuals exploring the ecosystem to organizations scaling across it."
+    },
+    "partners": {
+      "title": "Partners",
+      "intro": "Partner with DALLFI to reach builders, talent, and businesses across the ecosystem.",
+      "body1": "We collaborate with service providers, platforms, educators, and investors who share our focus on practical growth.",
+      "body2": "Become a partner to co-create programs, distribute services, and support people turning ideas into reality."
+    },
+    "events": {
+      "title": "Events",
+      "intro": "Discover workshops, meetups, and ecosystem gatherings that help you build and connect.",
+      "body1": "From product sessions to talent meetups, DALLFI events are designed to create useful conversations and real outcomes.",
+      "body2": "Explore upcoming events and join sessions that match your goals in Build, Work, Connect, or Grow."
+    },
+    "news": {
+      "title": "News",
+      "intro": "Stay updated with product updates, partner announcements, and ecosystem stories.",
+      "body1": "Follow the latest from DALLFI — launches, community highlights, and insights from people building in the ecosystem.",
+      "body2": "Check back often for news that helps you stay ahead and find the next opportunity."
+    },
+    "research": {
+      "title": "Research",
+      "intro": "Insights and research on digital ecosystems, talent, and opportunity markets.",
+      "body1": "We publish findings that help founders, professionals, and organizations make better decisions.",
+      "body2": "Explore reports and briefings focused on growth, collaboration, and emerging opportunities."
+    },
+    "careers": {
+      "title": "Careers",
+      "intro": "Build the future of DALLFI with a team focused on people, products, and opportunity.",
+      "body1": "We are looking for people who care about design, technology, community, and practical impact.",
+      "body2": "Browse open roles and join us in creating an ecosystem where ideas become reality."
+    },
+    "contact": {
+      "title": "Contact",
+      "intro": "Talk with the DALLFI team about partnerships, membership, press, or support.",
+      "body1": "Share your questions and we will guide you to the right next step in the ecosystem.",
+      "body2": "Whether you are a builder, partner, or organization, we are here to help you get started."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "intro": "How DALLFI collects, uses, and protects your information.",
+      "body1": "We are committed to transparency and responsible data practices across the ecosystem.",
+      "body2": "Review this policy to understand your choices and how we handle personal information."
+    }
+  }
+}

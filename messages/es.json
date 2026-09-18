@@ -1,0 +1,243 @@
+{
+  "Meta": {
+    "title": "DALLFI — Build. Work. Connect. Grow.",
+    "description": "Dallfi es un ecosistema digital donde personas y empresas crean productos, descubren oportunidades, encuentran talento, acceden a servicios profesionales y convierten ideas en realidad."
+  },
+  "LocaleSwitcher": {
+    "label": "Idioma",
+    "en": "Inglés",
+    "fr": "Francés",
+    "es": "Español",
+    "ar": "Árabe"
+  },
+  "Notice": {
+    "label": "Aviso",
+    "message": "DALLFI Download Manager (DDM) es un nuevo software de escritorio en desarrollo, enfocado en crear una solución simple, fiable y moderna para gestionar descargas de archivos.",
+    "learnMore": "Más información"
+  },
+  "Nav": {
+    "pages": "Páginas",
+    "login": "Iniciar sesión",
+    "search": "Buscar",
+    "searchPlaceholder": "Buscar en DALLFI…",
+    "searchClose": "Cerrar búsqueda",
+    "bookDemo": "Reservar una demo",
+    "ecosystemMonitor": "Monitor del ecosistema",
+    "notice": "Nuevo en DALLFI: explora Build, Work, Connect y Grow en un solo ecosistema.",
+    "noticeLink": "Más información",
+    "sectionTitle": "Oportunidades actuales",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "build": "Build",
+    "builds": "Builds",
+    "releases": "Releases",
+    "work": "Work",
+    "connect": "Connect",
+    "grow": "Grow",
+    "talent": "Talento",
+    "services": "Servicios",
+    "opportunities": "Oportunidades",
+    "products": "Productos",
+    "about": "Acerca de",
+    "membership": "Membresía",
+    "partners": "Partners",
+    "events": "Eventos",
+    "news": "Noticias",
+    "research": "Investigación",
+    "careers": "Carreras",
+    "contact": "Contacto",
+    "privacy": "Privacidad"
+  },
+  "Hero": {
+    "eyebrow": "Ecosistema DALLFI — todo lo que necesitas para crecer.",
+    "title": "Dellfi Softwares",
+    "tagline": "Una plataforma que empodera a todos para construir, trabajar, conectar y crecer.",
+    "searchNote": "DALLFI se está creando para explorar una experiencia dedicada donde la descarga de archivos se pueda gestionar desde una aplicación centralizada.",
+    "readMore": "Leer más",
+    "descriptionLine1": "Productos, oportunidades, talento y servicios — en un solo ecosistema.",
+    "descriptionLine2": "Empieza fácilmente y convierte ideas en realidad.",
+    "priceFrom": "Desde",
+    "price": "gratis*",
+    "offer": "Oferta",
+    "cta": "Empezar",
+    "version": "Versión 1.0",
+    "imageAlt": "Profesional trabajando con un portátil",
+    "feature1Lead": "Crea productos y proyectos",
+    "feature1Rest": "para un óptimo comienzo",
+    "feature2Lead": "Encuentra talento y oportunidades",
+    "feature2Rest": "en todo el ecosistema",
+    "feature3Lead": "Accede a servicios pro",
+    "feature3Rest": "— crece de forma segura",
+    "card": {
+      "build": "Build",
+      "work": "Work",
+      "connect": "Connect",
+      "grow": "Grow",
+      "products": "Productos",
+      "opportunities": "Oportunidades",
+      "talent": "Talento",
+      "services": "Servicios",
+      "events": "Eventos",
+      "news": "Noticias",
+      "partners": "Partners",
+      "research": "Investigación",
+      "membership": "Membresía",
+      "careers": "Carreras",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    }
+  },
+  "Blog": {
+    "title": "Blog",
+    "intro": "Novedades de Dallfi Softwares — builds, releases y notas de producto.",
+    "buildsTitle": "Builds",
+    "buildsIntro": "Trabajo en curso, experimentos e historias de producto del equipo Dallfi.",
+    "releasesTitle": "Releases",
+    "releasesIntro": "Notas de versión y actualizaciones de Dallfi Softwares.",
+    "all": "Todas las publicaciones",
+    "readMore": "Leer más",
+    "back": "Volver a publicaciones",
+    "post": "Publicación",
+    "empty": "Aún no hay publicaciones.",
+    "toc": "Tabla de contenidos",
+    "comments": "Comentarios",
+    "commentsEmpty": "Aún no hay comentarios. Sé el primero en responder.",
+    "commentName": "Nombre",
+    "commentEmail": "Correo",
+    "commentBody": "Comentario",
+    "commentSubmit": "Publicar",
+    "commentSending": "Enviando…",
+    "commentSaved": "Comentario publicado.",
+    "commentInvalid": "Introduce nombre, correo y un comentario.",
+    "commentError": "No se pudo publicar el comentario."
+  },
+  "Ecosystem": {
+    "sectionTitle": "Tu camino en el ecosistema",
+    "build": {
+      "title": "Build",
+      "description": "Crea productos, entrega proyectos y convierte ideas en iniciativas reales."
+    },
+    "work": {
+      "title": "Work",
+      "description": "Encuentra oportunidades significativas y haz crecer tu trayectoria profesional."
+    },
+    "connect": {
+      "title": "Connect",
+      "description": "Conoce talento, socios y comunidades que te impulsan hacia adelante."
+    },
+    "grow": {
+      "title": "Grow",
+      "description": "Accede a servicios y recursos que escalan personas y negocios."
+    }
+  },
+  "Cookies": {
+    "title": "Usamos cookies",
+    "p1": "Usamos cookies y tecnologías similares para ofrecer nuestros servicios, mejorar tu experiencia y analizar el tráfico.",
+    "p2": "Más información en nuestra <cookie>Política de cookies</cookie>, <privacy>Política de privacidad</privacy> e <imprint>Aviso legal</imprint>.",
+    "p3": "Elige «Aceptar» para permitir todas las cookies, o «Solo necesarias» para continuar solo con las cookies requeridas.",
+    "settings": "Ajustes",
+    "necessary": "Solo necesarias",
+    "accept": "Aceptar"
+  },
+  "Footer": {
+    "dallfiTitle": "DALLFI",
+    "companyTitle": "Empresa",
+    "communitiesTitle": "Comunidades abiertas",
+    "home": "Inicio",
+    "builds": "Builds",
+    "releases": "Releases",
+    "howItWorks": "Cómo funciona",
+    "aboutUs": "Sobre nosotros",
+    "contactUs": "Contacto",
+    "support": "Soporte: +44 20 8142 8846",
+    "sloganLeft": "Build. Work. Connect. Grow.",
+    "sloganRight": "Comprometidos con la satisfacción del cliente",
+    "ecosystem": "Ecosistema",
+    "poweredBy": "Impulsado por",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "feedback": "Feedback",
+    "build": "Build",
+    "work": "Work",
+    "connect": "Connect",
+    "grow": "Grow",
+    "talent": "Talento",
+    "services": "Servicios",
+    "press": "Prensa",
+    "legal": "Legal",
+    "privacy": "Privacidad",
+    "terms": "Términos y condiciones",
+    "products": "Productos",
+    "opportunities": "Oportunidades",
+    "events": "Eventos",
+    "news": "Noticias",
+    "research": "Investigación",
+    "partners": "Partners",
+    "api": "API",
+    "data": "Data",
+    "blog": "Blog",
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "copyright": "Diseño / logo © 2026 DALLFI. Build. Work. Connect. Grow."
+  },
+  "Pages": {
+    "about": {
+      "title": "Acerca de DALLFI",
+      "intro": "DALLFI es un ecosistema digital donde personas y empresas construyen, trabajan, se conectan y crecen juntas.",
+      "body1": "Reunimos productos, oportunidades, talento y servicios profesionales para convertir ideas en realidad más rápido.",
+      "body2": "Nuestra misión es ayudar a fundadores, profesionales y organizaciones a colaborar con claridad y crear un impacto duradero.",
+      "learnMore": "Más información",
+      "cardTitle": "Explorar DALLFI"
+    },
+    "membership": {
+      "title": "Membresía",
+      "intro": "Únete a DALLFI y accede a herramientas, comunidad y oportunidades de crecimiento.",
+      "body1": "Los miembros obtienen acceso anticipado a funciones y ofertas de partners.",
+      "body2": "Elige el plan según tu etapa, individual u organización."
+    },
+    "partners": {
+      "title": "Partners",
+      "intro": "Asóciate con DALLFI para llegar a builders, talento y empresas.",
+      "body1": "Colaboramos con plataformas, proveedores e inversores orientados al crecimiento.",
+      "body2": "Co-crea programas y apoya a quienes convierten ideas en realidad."
+    },
+    "events": {
+      "title": "Eventos",
+      "intro": "Talleres, meetups y sesiones para construir y conectar.",
+      "body1": "Los eventos DALLFI crean conversaciones útiles y resultados reales.",
+      "body2": "Explora próximos eventos de Build, Work, Connect o Grow."
+    },
+    "news": {
+      "title": "Noticias",
+      "intro": "Actualizaciones de producto, anuncios de partners e historias del ecosistema.",
+      "body1": "Sigue lo último de DALLFI y los momentos clave de la comunidad.",
+      "body2": "Vuelve a menudo para no perderte nuevas oportunidades."
+    },
+    "research": {
+      "title": "Investigación",
+      "intro": "Análisis sobre ecosistemas digitales, talento y oportunidades.",
+      "body1": "Publicamos insights para decidir y crecer mejor.",
+      "body2": "Explora informes y notas sobre colaboración y crecimiento."
+    },
+    "careers": {
+      "title": "Carreras",
+      "intro": "Construye el futuro de DALLFI con un equipo enfocado en impacto.",
+      "body1": "Buscamos perfiles apasionados por diseño, tecnología y comunidad.",
+      "body2": "Revisa roles abiertos y únete a nosotros."
+    },
+    "contact": {
+      "title": "Contacto",
+      "intro": "Habla con el equipo DALLFI sobre partnerships, membresía, prensa o soporte.",
+      "body1": "Cuéntanos tu necesidad y te guiaremos al siguiente paso.",
+      "body2": "Builders, partners u organizaciones: estamos para ayudar."
+    },
+    "privacy": {
+      "title": "Privacidad",
+      "intro": "Cómo DALLFI recopila, usa y protege tu información.",
+      "body1": "Nos comprometemos con prácticas de datos responsables.",
+      "body2": "Revisa esta política para entender tus opciones."
+    }
+  }
+}

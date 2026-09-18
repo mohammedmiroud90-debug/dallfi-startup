@@ -1,0 +1,44 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dallfi-startup",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-09-18",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "workers_dev": true,
+  "routes": [
+    { "pattern": "dallfi.com", "custom_domain": true },
+    { "pattern": "www.dallfi.com", "custom_domain": true },
+    { "pattern": "dallfi.eu.cc", "custom_domain": true },
+    { "pattern": "www.dallfi.eu.cc", "custom_domain": true }
+  ],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "images": {
+    "binding": "IMAGES"
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "dallfi-startup"
+    }
+  ],
+  // Incremental cache + shared media bucket (Cloudflare R2)
+  "r2_buckets": [
+    {
+      "binding": "NEXT_INC_CACHE_R2_BUCKET",
+      "bucket_name": "bucketblog","preview_bucket_name": "bucketblog"
+    },
+    {
+      "binding": "MEDIA_BUCKET",
+      "bucket_name": "bucketblog","preview_bucket_name": "bucketblog"
+    }
+  ],
+  "vars": {
+    "PARSE_SERVER_URL": "https://backendweb.eollinea.com/parse",
+    "R2_PUBLIC_URL": "https://pub-934e29ec90504f5c9f23a9b4f607b77a.r2.dev",
+    "NEXT_PUBLIC_SITE_URL": "https://dallfi.com",
+    "NEXT_PUBLIC_SITE_HOSTS": "dallfi.com,www.dallfi.com,dallfi.eu.cc,www.dallfi.eu.cc"
+  }
+}

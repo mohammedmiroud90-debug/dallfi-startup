@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "slug": "welcome-to-dallfi-builds",
+    "title": "Welcome to Dallfi Builds",
+    "excerpt": "How we ship products, projects, and experiments across the Dallfi ecosystem.",
+    "content": "Dallfi Builds is where we share what we are shipping.\n\nFrom early prototypes to production releases, this space documents the work behind products, tools, and services that help people and businesses grow.\n\nIn this first post we outline our approach: ship small, learn fast, and keep the experience clean for everyone who joins the ecosystem.\n\nExpect practical notes, architecture decisions, and product updates written in plain language.",
+    "category": "builds",
+    "author": "Dallfi Team",
+    "publishedAt": "2026-09-10",
+    "coverImage": "/about/unicef-digital.webp"
+  },
+  {
+    "id": "2",
+    "slug": "platform-release-1-0",
+    "title": "Platform Release 1.0",
+    "excerpt": "Our first public release of the Dallfi Softwares platform is live.",
+    "content": "Release 1.0 marks the first public version of Dallfi Softwares.\n\nThis release includes the core homepage experience, multilingual navigation, and the foundations for Builds and Releases updates.\n\nWhat is included:\n\n• Clean Open Sans typography across the product\n• Red brand header with white logo treatment\n• About section and ecosystem pathways\n• Blog infrastructure for Builds and Releases\n\nWhat comes next: richer product pages, member workflows, and deeper ecosystem tools.",
+    "category": "releases",
+    "author": "Dallfi Team",
+    "publishedAt": "2026-09-15",
+    "coverImage": "/about/unicef-digital.webp"
+  },
+  {
+    "id": "3",
+    "slug": "building-the-ecosystem-layer",
+    "title": "Building the Ecosystem Layer",
+    "excerpt": "A look at how Build, Work, Connect, and Grow fit together as one digital ecosystem.",
+    "content": "An ecosystem is more than a homepage. It is a set of connected paths.\n\nBuild helps founders and teams create.\nWork opens opportunities.\nConnect brings people together.\nGrow provides services and scale.\n\nThis post explains how those pillars interact and why we publish progress under Builds — so every improvement stays visible and accountable.",
+    "category": "builds",
+    "author": "Dallfi Team",
+    "publishedAt": "2026-09-12",
+    "coverImage": null
+  },
+  {
+    "id": "4",
+    "slug": "release-notes-header-and-blog",
+    "title": "Release Notes: Header and Blog",
+    "excerpt": "Latest release notes covering the new header experience and blog pages.",
+    "content": "This release focuses on clarity.\n\nHeader\n• Simplified navigation to Builds and Releases\n• Clean red top bar on mobile and desktop\n\nBlog\n• List view for all posts\n• Individual post pages with readable typography\n• Category filtering for Builds and Releases\n\nThank you for following along as Dallfi Softwares takes shape.",
+    "category": "releases",
+    "author": "Dallfi Team",
+    "publishedAt": "2026-09-18",
+    "coverImage": null
+  }
+]
